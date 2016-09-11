@@ -41,7 +41,8 @@ This document has been drafted in Markdown (MD) and in plain text (TXT), and can
 
 Elements that need to be filled in have been marked up with double brackets, as follows:
 
-	[[BUSINESS NAME]]
+	[[Website or App Name]]
+	[["we" or "me"]]
 
 Make sure to find and fill in them all!
 
