@@ -13,19 +13,19 @@ This [["website" or "app"]] track basic information about their [["visitors" or 
 Where necessary, this [["website" or "app"]] uses cookies to store information about a visitor’s preferences and history in order to better serve the [["visitor" or "user"]] and/or present the [["visitor" or "user"]] with customized content.
 
 
-## Special Note About Google Advertising
+## Advertisement and Other Third Parties
 
-Any advertisements served by Google, Inc., and affiliated companies may be controlled using cookies. These cookies allow Google to display ads based on your visits to this [[Website or App Name]]. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html). Any tracking done by Google through cookies and other mechanisms is subject to Google’s own privacy policies.
-
-
-## Security
-
-The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
+Advertising partners and other third parties may use cookies, scripts and/or web beacons to track [["visitors" or "user"]] activities on this [["website" or "app"]] in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This [["website" or "app"]] has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. Learn how to [opt out of Google’s cookie usage](http://www.google.com/privacy_ads.html).
 
 
 ## Links to Third Party Websites
 
 [["We" or "I"]] have included links on this [["website" or "app"]] for your use and reference. [["We" or "I"]] are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from [["our" or "my"]] own.
+
+
+## Security
+
+The security of your personal information is important to [["us" or "me"]], but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While [["we" or "I"]] strive to use commercially acceptable means to protect your personal information, [["we" or "I"]] cannot guarantee its absolute security.
 
 
 ## Changes To This Privacy PolicyThis Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
@@ -34,4 +34,4 @@ The security of your personal information is important to [["us" or "me"]], but 
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[Contact Email Address]]
+For any questions or concerns regarding the privacy policy, please send [["us" or "me"]] an email to [[Contact Email Address]].
