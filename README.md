@@ -41,8 +41,10 @@ This document has been drafted in Markdown (MD) and in plain text (TXT), and can
 
 Elements that need to be filled in have been marked up with double brackets, as follows:
 
-	[[Website or App Name]]
-	[["we" or "me"]]
+	[["website" or "app"]]
+	[["we" or "I"]]
+	[["us" or "me"]]
+	[["our" or "my"]]
 
 Make sure to find and fill in them all!
 
