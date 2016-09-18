@@ -60,7 +60,7 @@ You should also know that this Privacy Policy Template is provided without any w
 
 ## License
 
-This document is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
+This Privacy Policy Template is licensed under the [GNU General Public License, version 3 (GPLv3)](http://www.gnu.org/licenses/gpl-3.0.html) and is distributed free of charge.
 
 
 ## Author
