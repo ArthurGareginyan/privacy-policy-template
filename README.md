@@ -22,7 +22,7 @@ Personal data is any kind of data or information that can be considered personal
 * And so on
 
 
-## When is required a Privacy Policy
+## When is a Privacy Policy required
 
 The Privacy Policy is required by law if you collect personal data. One should be provided where your website or app does anything with personal data. A Privacy Policy is required regardless of the type of platform your business operates on or what kind of industry you’re in:
 
